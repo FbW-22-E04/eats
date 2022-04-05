@@ -1,12 +1,10 @@
-**My Favourite Foods**
+**Your Favourite Foods**
 <br>
 
-Here is a list of yummy snacks I enjoy:
+List yummy snacks that you enjoy:
 <br>
 * Tacos
-* Thai Green Curry
-* Omurice
-* Shawarma
+
 
 <br>
 
