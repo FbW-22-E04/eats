@@ -1,8 +1,3 @@
-**Your Favourite Foods**
-<br>
-
-List yummy snacks that you enjoy:
-<br>
 * Tacos
 
 
